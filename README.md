@@ -141,7 +141,7 @@ go run . test "a futuristic city at night"
 
 ---
 
-## Using an API key (Untested seriously, if you need this you can test it yourself and report any issues you got. Thanks :D)
+## Using an API key (Untested seriously, if you need this you can test it yourself and report any issues you got. Thanks :Đ)
 
 ```bash
 go run . serve --port 8080 --key mysecretkey
